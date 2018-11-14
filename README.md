@@ -44,6 +44,6 @@ or if you want to set it to reading mode
 </script>
 ```
 ##### A live demo will be available at [Tennom's tools](https://tennom.net/tools/webBo "Web Bo Demo"), it's not there yet sorry.
-
+##### Credits to UVA projects under Prof. David Germano.
 ##### Reminder! Using this script on non-Tibetan text may result in bad text rendering. Please use it only when you have Tibetan text mixed with other languages or Tibetan text only.
 
