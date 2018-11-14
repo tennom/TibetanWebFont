@@ -151,4 +151,3 @@ function WebTibetan(textStyle="fit") {
   }
 
 }
-console.log("see?");
