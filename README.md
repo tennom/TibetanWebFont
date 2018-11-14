@@ -6,7 +6,7 @@ Since the advent of Android 6(started affective in 2016), all major desktop and 
 | Ms Himalaya  | Kailasa  | Noto Sans Tibetan | Tibetan Machine Uni
 
 
-### The problem: Tibetan text showing on these O
+### The problem: Tibetan text showing on these OSes
 ![](https://github.com/tennom/TibetanWebFont/blob/master/webTibetanB.png)
 
 > Tibetan websites without font configuration
