@@ -7,12 +7,12 @@ Since the advent of Android 6(started affective in 2016), all major desktop and 
 
 
 ### The problem: Tibetan text showing on these O
-![](https://github.com/tennom/TibetanWebFont/blob/master/webTibetanB.jpg)
+![](https://github.com/tennom/TibetanWebFont/blob/master/webTibetanB.png)
 
 > Tibetan websites without font configuration
 
 ### A solution :wink: using this script
-![](https://github.com/tennom/TibetanWebFont/blob/master/webTibetanA.jpg)
+![](https://github.com/tennom/TibetanWebFont/blob/master/webTibetanA.png)
 
 > Tibetan websites with usage of webBo.js
 
