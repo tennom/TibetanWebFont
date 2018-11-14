@@ -43,7 +43,7 @@ or if you want to set it to reading mode
 [TibetanTextElement].style.font = WebTibetan('reading');
 </script>
 ```
-#####A live demo will be available at [Tennom's tools](https://tennom.net/tools/webBo "Web Bo Demo"), it's not there yet sorry.
+##### A live demo will be available at [Tennom's tools](https://tennom.net/tools/webBo "Web Bo Demo"), it's not there yet sorry.
 
-#####Reminder! Using this script on non-Tibetan text may result in bad text rendering. Please use it only when you have Tibetan text mixed with other languages or Tibetan text only.
+##### Reminder! Using this script on non-Tibetan text may result in bad text rendering. Please use it only when you have Tibetan text mixed with other languages or Tibetan text only.
 
